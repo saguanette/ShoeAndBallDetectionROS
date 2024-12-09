@@ -1,5 +1,3 @@
-thing_detector
-
 Prerequisites:
  * Ubuntu 20.04 Focal Fossa (https://releases.ubuntu.com/20.04/)
  * ROS 2 foxy (https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
