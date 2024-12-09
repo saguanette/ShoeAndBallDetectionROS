@@ -14,8 +14,8 @@ Installation:
 To build:
    To build this package, you either need a ROS 2 workspace or create a new one. Here is the instructions to create a new ROS 2 workspace, build the package.
     (open new terminal)
- >>> mkdir -p ~/ros2_ws/src
- >>> cd  ~/ros2_ws/src
+ > mkdir -p ~/ros2_ws/src< br / > 
+ >> cd  ~/ros2_ws/src
 
 copy or clone the package to src folder & go back to workspace directory & do colcon build
 >>cd  ~/ros2_ws
