@@ -1,6 +1,6 @@
 # ShoeAndBallDetectionROS
 
-This is the project for Embodied Intelligence subject, it is part of a bigger project MechanumBot, the code uses YOLOV8 for detecting shoes and balls using ROS subscriber/publisher architecture
+This is the project for Embodied Intelligence subject, it is part of a bigger project MechanumBot, the code uses YOLOV8 for detecting shoes and balls (will be extended later) using ROS subscriber/publisher architecture
 
 Prerequisites:
  * Ubuntu 20.04 Focal Fossa (https://releases.ubuntu.com/20.04/)
